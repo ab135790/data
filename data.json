@@ -1,0 +1,221 @@
+{
+  "code": "0",
+  "head": [
+    {"logo": "img/logo.png"},
+    {"nav": [
+      {
+       "index": {
+           "CTindex": "首页",
+           "linkUrl": "index.html",
+           "content": {
+             "title": "服务领域",
+             "item": [
+               {
+                 "icon": "icon-icon-test",
+                 "imgUrl": "pages/worksShow.html",
+                 "txt": "婚纱摄影"
+               },
+               {
+                 "icon": "icon-ertong",
+                 "imgUrl": "pages/worksShow.html",
+                 "txt": "儿童摄影"
+               },
+               {
+                 "icon": "icon-tubiaoCSban-",
+                 "imgUrl": "pages/worksShow.html",
+                 "txt": "写真摄影"
+               },
+               {
+                 "icon": "icon-icon-test1",
+                 "imgUrl": "pages/worksShow.html",
+                 "txt": "宠物摄影"
+               },
+               {
+                 "icon": "icon-fengjing",
+                 "imgUrl": "pages/worksShow.html",
+                 "txt": "风景摄影"
+               }
+             ]
+           }
+         }
+      },
+      {
+        "index": {
+          "CTindex": "关于我们",
+          "linkUrl": "servers.html",
+          "content": {
+            "title": "服务领域",
+            "item": [
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "婚纱摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "儿童摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "写真摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "宠物摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "风景摄影"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "index": {
+          "CTindex": "新闻中心",
+          "linkUrl": "about.html",
+          "content": {
+            "item": [
+              {
+                "linkUrl": "info/personInfo.html",
+                "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/hunshazhao6.jpg",
+                "txt": "婚纱现代主题",
+                "simpleness": "（简单介绍）"
+              },
+              {
+                "linkUrl": "info/personInfo.html",
+                "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/hunshazhao6.jpg",
+                "txt": "婚纱古典主题",
+                "simpleness": "（简单介绍）"
+              },
+              {
+                "linkUrl": "info/personInfo.html",
+                "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/hunshazhao6.jpg",
+                "txt": "婚纱欧美主题",
+                "simpleness": "（简单介绍）"
+              },
+              {
+                "linkUrl": "info/personInfo.html",
+                "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/hunshazhao6.jpg",
+                "txt": "婚纱主题",
+                "simpleness": "（简单介绍）"
+              },
+              {
+                "linkUrl": "info/personInfo.html",
+                "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/hunshazhao6.jpg",
+                "txt": "婚纱主题",
+                "simpleness": "（简单介绍）"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "index": {
+          "CTindex": "摄影欣赏",
+          "linkUrl": "servers.html",
+          "content": {
+            "title": "服务领域",
+            "item": [
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "婚纱摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "儿童摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "写真摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "宠物摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "风景摄影"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "index": {
+          "CTindex": "客户留言",
+          "linkUrl": "servers.html",
+          "content": {
+            "title": "服务领域",
+            "item": [
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "婚纱摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "儿童摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "写真摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "宠物摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "风景摄影"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "index": {
+          "CTindex": "联系我们",
+          "linkUrl": "servers.html",
+          "content": {
+            "title": "服务领域",
+            "item": [
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "婚纱摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "儿童摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "写真摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "宠物摄影"
+              },
+              {
+                "imgUrl": "pages/worksShow.html",
+                "txt": "风景摄影"
+              }
+            ]
+          }
+        }
+      }
+    ]}
+  ],
+  "banner": [
+    {
+      "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/231414.jpg"
+    },
+    {
+      "imgUrl": "https://photography-1065796-pic41.websiteonline.cn/upload/2314534.jpg"
+    }
+  ],
+  "about": {
+    "title": "关于我们",
+    "content": "我们是一家专业摄影公司，<br/>成立于1983,我们热爱摄影，<br/>从业多年我们为上万人拍摄出理想的作品，<br/>为某某知名模特公司处于长期合作对象。",
+    "copyright": "Copyright © 2013-2019 All Rights Reserved."
+  }
+}
